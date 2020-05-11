@@ -1,7 +1,7 @@
 Sassy
 =====
 
-a simple assay simulator
+A simple assay simulator
 
 Features
 --------
