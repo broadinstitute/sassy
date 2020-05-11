@@ -9,7 +9,7 @@ Features
 * Assays
     * Lateral flow
     * Paper strip
-    * n-strip PCR tubes
+    * *n*-strip PCR tubes
 * Tasks
     * Instance segmentation
     * Object detection
